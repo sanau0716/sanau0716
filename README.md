@@ -18,3 +18,4 @@ I build AI-powered business systems that combine LLM reasoning with deterministi
 - **Visual Proofs & Architecture Maps:** [VISUAL_PROOFS.md](https://github.com/sanau0716/ai-automation-portfolio/blob/main/VISUAL_PROOFS.md)
 - **36-Workflow n8n Audit:** [N8N_WORKFLOW_AUDIT.md](https://github.com/sanau0716/ai-automation-portfolio/blob/main/N8N_WORKFLOW_AUDIT.md)
 - **Website:** [awtomateai.com](https://awtomateai.com)
+- **LinkedIn:** [linkedin.com/in/ajbelmonte](https://www.linkedin.com/in/ajbelmonte/)
